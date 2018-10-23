@@ -7,48 +7,48 @@ In this project, you will learn to implement a momentum trading strategy and tes
 
 #### Course: Basic Quantitative Trading
 In this course, you will learn about market mechanics and how to generate signals with stocks. Your first project is to develop a momentum trading strategy.
-Lesson content
-- Lesson 1: Introduction
-- Lesson 2: Stock Prices
-- Lesson 3: Market Mechanics
-- Lesson 4: Data Processing
-- Lesson 5: Stock Returns
-- Lesson 6: Momentum Trading
+- Lesson content
+  - Lesson 1: Introduction
+  - Lesson 2: Stock Prices
+  - Lesson 3: Market Mechanics
+  - Lesson 4: Data Processing
+  - Lesson 5: Stock Returns
+  - Lesson 6: Momentum Trading
 
 ### Project 2: Breakout Strategy
 In this project, you will code and evaluate a breakout signal. You will run statistical tests to test for normality and to find alpha. You will also learn to find outliers and evaluate the effect that filtered outliers could have on your trading signal. You will run various scenarios of your model with or without the outliers and decide if the outliers should be kept or not.
 
 #### Course: Advanced Quantitative Trading
 In this course, you will get to know the workflow that a quant follows for signal generation, and also learn to apply advanced quantitative methods in trading.
-Lesson content
-- Lesson 1: Quant Workflow
-- Lesson 2: Outliers and Filtering Signals
-- Lesson 3: Regression
-- Lesson 4: Time Series Modeling
-- Lesson 5: Volatility
-- Lesson 6: Pairs Trading and Mean Reversion
+- Lesson content
+  - Lesson 1: Quant Workflow
+  - Lesson 2: Outliers and Filtering Signals
+  - Lesson 3: Regression
+  - Lesson 4: Time Series Modeling
+  - Lesson 5: Volatility
+  - Lesson 6: Pairs Trading and Mean Reversion
 
 ### Project 3: Smart Beta and Portfolio Optimization
 In this project, you will create two portfolios utilizing smart beta methodology and optimization. You will evaluate the performance of the portfolios by calculating tracking errors. You will also calculate the turnover of your portfolio and find the best timing to rebalance. You will come up with the portfolio weights by analyzing fundamental data, and by quadratic programming.
 
 #### Course: ETFs, Indices, Stocks
 In this course, you will learn about portfolio optimization, and financial securities formed by stocks such as market indices, vanilla ETFs, and Smart Beta ETFs.
-Lesson content
-- Lesson 1: Stocks, Indices and Funds
-- Lesson 2: ETFs
-- Lesson 3: Portfolio Risk and Return
-- Lesson 4: Portfolio Optimization
+- Lesson content
+  - Lesson 1: Stocks, Indices and Funds
+  - Lesson 2: ETFs
+  - Lesson 3: Portfolio Risk and Return
+  - Lesson 4: Portfolio Optimization
 
 ### Project 4: Multi-factor Model
 In this project, you will research and generate multiple alpha factors. Then you will apply various techniques to evaluate the performance of your alpha factors and learn to pick the best ones for your portfolio. You will formulate an advanced portfolio optimization problem by working with constraints such as risk models, leverage, market neutrality and limits on factor exposures.
 
 #### Course: Multi-factor Model
 In this course, you will learn about alpha factors and risk factors, and construct a portfolio with advanced portfolio optimization techniques.
-Lesson content
-- Lesson 1: Factors Models of Returns
-- Lesson 2: Risk Factor Models
-- Lesson 3: Alpha Factors
-- Lesson 4: Advanced Portfolio Optimization with Risk and Alpha Factors Models
+- Lesson content
+  - Lesson 1: Factors Models of Returns
+  - Lesson 2: Risk Factor Models
+  - Lesson 3: Alpha Factors
+  - Lesson 4: Advanced Portfolio Optimization with Risk and Alpha Factors Models
 
 ## TERM 2: AI ALGORITHMS FOR TRADING
 Work with alternative data and use machine learning to generate trading signals. You will run a backtest to evaluate your signals and use advanced techniques to combine the top performing signals.
